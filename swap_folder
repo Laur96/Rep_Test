@@ -1,0 +1,2 @@
+Python program that synchronize two folders for example: source folder and replica folder.
+The program maintains a full, identical copy of the source folder at the replica folder.
